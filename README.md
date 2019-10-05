@@ -1,6 +1,6 @@
 # Escuelajs-reto-06
 Reto 6 Octubre 5: Curso Práctico de React JS
-
+  
 ## Platzi Maps
 
 Tenemos un proyecto web, donde debemos trabajar con la API de Google de mapas, tenemos que mostrar en un Mapa las ubicaciones de las oficinas de Platzi.

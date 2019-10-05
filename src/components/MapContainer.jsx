@@ -1,6 +1,7 @@
 import React from 'react';
 import { Map, GoogleApiWrapper, Marker } from 'google-maps-react';
 
+//Este comentario sólo es para aprender git
 const MapContainer = ({ google }) => {
   return (
     <Map
